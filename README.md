@@ -6,4 +6,5 @@ Makes it easy to create a specific usecase of a generic usecase.
 
 ---
 Why there is service and serviceImpl
+
 <img width="587" alt="image" src="https://github.com/user-attachments/assets/d171926e-6aa4-4eb9-9e4d-6954335b87d6" />
